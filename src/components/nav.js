@@ -6,9 +6,9 @@ function Nav() {
   console.log(location);
   return (
     <div>
-      <ul className="nav justify-content-center">
+      <ul className="nav">
 
-      <li className="nav-item" >
+        <li className="nav-item" >
           <Link to='/' className={location.pathname === "/" ? "clicked" : "unclicked"}>About</Link>
         </li>
 

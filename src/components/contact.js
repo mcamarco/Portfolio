@@ -7,6 +7,7 @@ function Form() {
   const [message, setMessage] = useState('');
   const [nameError, setNameError] = useState('');
   const [emailError, setEmailError] = useState('');
+  const [messageError, setMessageError] = useState('');
   const [errorMessage, setErrorMessage] = useState('');
 
   const handleInputChange = (e) => {
@@ -20,6 +21,7 @@ function Form() {
       setEmailError('');
     } else if (name === 'message') {
       setMessage(value);
+      setMessageError('');
     }
   };
 
@@ -34,7 +36,11 @@ function Form() {
       setEmailError('Email is invalid');
     }
 
-    if (name.trim() === '' || !validateEmail(email)) {
+    if (message.trim() === '') {
+      setMessageError('Message is required');
+    }
+
+    if (name.trim() === '' || !validateEmail(email) || message.trim() === '') {
       setErrorMessage('Please fill in the required fields correctly');
       return;
     }
@@ -44,8 +50,9 @@ function Form() {
     setMessage('');
     setNameError('');
     setEmailError('');
+    setMessageError('');
     setErrorMessage('');
-  };
+  };;
 
   return (
     <div>

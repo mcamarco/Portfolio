@@ -1,16 +1,18 @@
 import React from 'react';
 import linkedinLogo from '../images/linkedinLogo.png';
-// import githubIcon from '../images/github-icon.png';
+import githubIcon from '../images/github-logo.png';
 
 function Footer() {
   const iconStyle = {
-    width: '24px', // Set the desired width of the icon
-    height: '24px', // Set the desired height of the icon
+    width: '24px', 
+    height: '24px', 
   };
 
   return (
     <div>
-      {/* TODO: ADD GITHUB ICON HERE */}
+      <a href="https://github.com/mcamarco">
+        <img src={githubIcon} alt="GitHub" style={iconStyle} />
+      </a>
       
       <a href="https://linkedin.com/in/mcamarco">
         <img src={linkedinLogo} alt="LinkedIn" style={iconStyle} />

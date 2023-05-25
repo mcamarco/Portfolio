@@ -4,30 +4,30 @@ import MickeysHeadshot from '../images/Mickey_Full.jpeg';
 function About() {
   return (
     <div className="container">
-      <div className="row">
-        <div className="col-md-3">
-          <img src={MickeysHeadshot} alt="Mickey's Headshot" className="img-fluid" />
-        </div>
-        <div className="col-md-9">
-          <p>
-            Mickey Camarco is a highly motivated and passionate individual with a strong interest in technology. They have experience in customer service, leadership, partner management, and sales enablement, as well as expertise in solution selling, strategic partnerships, and software as a service (SaaS).
-          </p>
-
-          <p>
-            In my previous roles as a Technical Channel Enablement Manager, Solutions/Sales Engineer, and Business Analyst/Product Manager, I've had the opportunity to exceed sales goals, monitor technical roadblocks, and provide thought leadership at conferences and community engagements. I'm also proud to be a co-founder of Camarco Consulting LLC, a technology consulting firm that provides custom software solutions, technical support, and project management services to businesses across various industries.
-          </p>
-
-          <p>
-            Aside from my professional experience, I'm also a graduate of the Penn LPS Coding Bootcamp, where I gained hands-on experience in full-stack web development using various technologies such as HTML, CSS, JavaScript, Node.js, and React. This proficiency in these technologies provides me with a well-rounded perspective, making me a valuable collaborator with developers and stakeholders.
-          </p>
-
-          <p>
-            I'm committed to continuous learning and professional development, and I hold a consultative approach in all interactions with customers and prospects. I bring a unique and valuable perspective as someone who has worked both as a customer and an Independent Software Vendor (ISV), and I'm always seeking opportunities to learn and expand my knowledge.
-          </p>
-
-          <p>
-            Thank you for taking the time to learn a little bit about me, and I'm excited to showcase my portfolio of work with you!
-          </p>
+      <div className="card">
+        <div className="card-body">
+          <div className="row">
+            <div className="col-md-3">
+              <img src={MickeysHeadshot} alt="Mickey's Headshot" className="img-fluid" />
+            </div>
+            <div className="col-md-9">
+              <p>
+                Mickey Camarco is a dedicated professional with a passion for technology and a drive for success. With a strong background in technical channel enablement, pre-sales solutions engineering, and business analysis, they bring a wealth of experience to the table. They have a proven track record of exceeding sales targets, driving partner-sourced revenue, and building strategic partnerships.
+              </p>
+              <p>
+                Throughout their career, Mickey has honed their skills in delivering compelling technical presentations, influencing product roadmaps, and providing innovative solutions to complex problems. They thrive on challenges and continuously seek opportunities to expand their knowledge and expertise. With a keen eye for detail and a strong analytical mindset, they consistently deliver high-quality results.
+              </p>
+              <p>
+                Mickey recently completed the rigorous coursework in full-stack web development at the Penn LPS Coding Boot Camp, further expanding their technical skill set. Through this immersive program, they demonstrated proficiency in front-end and back-end technologies, developed dynamic web applications using modern frameworks and libraries, and applied industry best practices and coding standards.
+              </p>
+              <p>
+                With their newly acquired knowledge and hands-on experience, Mickey is well-equipped to tackle diverse technical challenges and contribute to innovative projects. They are excited to apply their skills and continue their journey of growth and learning in the field of web development. They look forward to connecting with like-minded professionals and exploring new opportunities to contribute their skills and expertise.
+              </p>
+              <p>
+                Let's connect and embark on an exciting journey together!
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
