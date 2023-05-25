@@ -55,8 +55,8 @@ function Form() {
   };;
 
   return (
-    <div>
-      <div className="card">
+    <div className='container'>
+      <div className="card card-contact">
         <div className="card-body">
           <h5 className="card-title">Contact Form</h5>
           <form className="form">

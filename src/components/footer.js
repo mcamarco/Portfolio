@@ -9,7 +9,7 @@ function Footer() {
   };
 
   return (
-    <div>
+    <div className='footer'>
       <a href="https://github.com/mcamarco">
         <img src={githubIcon} alt="GitHub" style={iconStyle} />
       </a>

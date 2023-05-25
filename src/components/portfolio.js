@@ -4,45 +4,45 @@ import Project from './project';
 function Portfolio() {
   const projects = [
     {
-      // image: require('../images/the19thHole.png'),
+      image: require('../images/the19thHole.png'),
       title: 'The 19th Hole',
       description: 'Description of project',
       link: 'https://github.com/mcamarco/the-19th-hole',
       id: 1
     },
     {
-      // image: require('../images/Portfoli-Yo Img.png'),
+      image: require('../images/Portfoli-Yo Img.png'),
       title: 'Portfoli-Yo',
       description: 'Description of project',
       link: 'https://github.com/mcamarco/portfoli-yo',
       id: 2
     },
     {
-      // image: require('../images/SQL_Employee_Tracker.png'),
+      image: require('../images/SQL_Employee_Tracker.png'),
       title: 'SQL Employee Tracker',
       description: 'Description of project',
       link: 'https://github.com/mcamarco/SQL_Employee_Tracker',
       id: 3
     },
     {
-      // image: require('../images/the19thHole.png'),
-      title: 'Text Editor',
+      // image: require('../images/'),
+      title: 'Weather Dashboard',
       description: 'Description of project',
-      link: 'https://github.com/mcamarco/text_editor',
+      link: 'https://github.com/mcamarco/Weather-Dashboard',
       id: 4
     },
     {
-      // image: require('../images/the19thHole.png'),
-      title: 'Project Name',
+      // image: require('../images/'),
+      title: 'SVG Logo Maker',
       description: 'Description of project',
-      // link: 'https://github.com/mcamarco/the-19th-hole',
+      link: 'https://github.com/mcamarco/SVG_Logo_Maker',
       id: 5
     },
     {
-       // image: require('../images/the19thHole.png'),
-      title: 'Project Name',
+      //  image: require('../images/'),
+      title: 'PWA: Text Editor',
       description: 'Description of project',
-      // link: 'https://github.com/mcamarco/the-19th-hole',
+      link: 'https://github.com/mcamarco/Text_Editor',
       id: 6
     },
 
