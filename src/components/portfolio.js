@@ -54,7 +54,7 @@ function Portfolio() {
         {projects.map(function (project) {
           return (
             <div className="col-md-4 mb-4 col-sm-12">
-              <Project image={project.image} title={project.title} description={project.description} link={project.githublink} id={project.id} />
+              <Project image={project.image} title={project.title} description={project.description} link={project.link} id={project.id} />
             </div>
           )
         })}
