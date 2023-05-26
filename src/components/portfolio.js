@@ -20,28 +20,28 @@ function Portfolio() {
     {
       image: require('../images/SQL_Employee_Tracker.png'),
       title: 'SQL Employee Tracker',
-      description: 'Description of project',
+      description: 'A comprehensive employee management system built using SQL, allowing businesses to efficiently organize and track their workforce. It provides features like employee records, departments, roles, and more.',
       link: 'https://github.com/mcamarco/SQL_Employee_Tracker',
       id: 3
     },
     {
-      // image: require('../images/'),
+      image: require('../images/weather dashboard.png'),
       title: 'Weather Dashboard',
-      description: 'Description of project',
+      description: 'An intuitive web application that provides real-time weather updates and forecasts for any location. Users can search for specific cities and view detailed weather information including temperature, humidity, wind speed, and more. ',
       link: 'https://github.com/mcamarco/Weather-Dashboard',
       id: 4
     },
     {
-      // image: require('../images/'),
+      image: require('../images/svgLogoMaker.png'),
       title: 'SVG Logo Maker',
-      description: 'Description of project',
+      description: 'This project offers a simple yet powerful tool for creating and editing SVG logos. Users can design unique logos by leveraging various shapes, colors, and text.',
       link: 'https://github.com/mcamarco/SVG_Logo_Maker',
       id: 5
     },
     {
-      //  image: require('../images/'),
+       image: require('../images/textEditor.png'),
       title: 'PWA: Text Editor',
-      description: 'Description of project',
+      description: 'A progressive web application (PWA) that functions as a feature-rich text editor. It provides a user-friendly interface with essential editing tools and supports offline access.',
       link: 'https://github.com/mcamarco/Text_Editor',
       id: 6
     },
