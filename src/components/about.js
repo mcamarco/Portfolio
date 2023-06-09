@@ -26,6 +26,7 @@ function About() {
               <p>
                 Let's connect and embark on an exciting journey together!
               </p>
+
             </div>
           </div>
         </div>
