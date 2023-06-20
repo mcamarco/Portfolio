@@ -6,7 +6,7 @@
 /* NAVIGATION */
 .nav {
   border-style: ridge;
-  justify-content: center;
+  /* justify-content: center; */
 }
 
 .nav-item {
@@ -16,13 +16,14 @@
 
 .clicked {
   font-weight: bolder;
+  color:red;
 }
 
 .unclicked {
   color: black;
 }
 
-/* CARDS */
+/* PORTFOLIO */
 .cardDiv {
   padding-top: 15px;
 }
@@ -43,23 +44,14 @@
   text-align: center;
   margin: 10px;
 }
-/* LINKED ICONS */
-.icon {
-  width: 24px;
-  height: 24px;
-}
+
 
 /* Footer */
 .footer {
   text-align: center;
 }
 
-.justify-content {
-  justify-content: center;
+.icon {
+  width: 24px;
+  height: 24px;
 }
-
-li {
-  list-style: none;
-}
-
-/* Portfolio Page Hovering */

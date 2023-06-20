@@ -13,17 +13,20 @@ function Nav() {
         </li>
 
         <li className="nav-item">
-          <Link to='/Portfolio'className={location.pathname === "/Portfolio" ? "clicked" : "unclicked"}>Portfolio</Link>
+          <Link to='/Portfolio' className={location.pathname === "/Portfolio" ? "clicked" : "unclicked"}>Portfolio</Link>
         </li>
-        
+
         <li className="nav-item">
-         <Link to='/Resume'className={location.pathname === "/Resume" ? "clicked" : "unclicked"}>Resume</Link>
+          <Link to='/Resume' className={location.pathname === "/Resume" ? "clicked" : "unclicked"}>Resume</Link>
         </li>
 
         <li className="nav-item">
           <Link to='/Contact' className={location.pathname === "/Contact" ? "clicked" : "unclicked"}>Contact</Link>
         </li>
 
+        <li className="nav-item">
+          <Link to='/Testimonials' className={location.pathname === "/Testimonials" ? "clicked" : "unclicked"}>Testimonials</Link>
+        </li>
       </ul>
 
     </div>

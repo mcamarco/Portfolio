@@ -10,11 +10,17 @@ function Footer() {
 
   return (
     <div className='footer'>
-         <a href="https://github.com/mcamarco">
+
+      {/* Email */}
+      <a href="mailto:mickey.camarco@gmail.com">Contact Me</a>
+      <br></br>
+
+      {/* GitHub */}
+      <a href="https://github.com/mcamarco">
         <img src={githubIcon} alt="GitHub" style={iconStyle} />
       </a>
 
-
+      {/* LinkedIn */}
       <a href="https://linkedin.com/in/mcamarco">
         <img src={linkedinLogo} alt="LinkedIn" style={iconStyle} />
       </a>

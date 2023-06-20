@@ -1,0 +1,92 @@
+{
+    "summary": "Experienced Technical Project Manager with a strong background in business analysis, technical channel enablement, and solutions engineering. Proven ability to manage complex projects, exceed sales targets, and build strategic partnerships. Skilled in delivering technical presentations, influencing product roadmaps, and innovating solutions.",
+    "technicalLanguages": ["HTML/CSS", "JavaScript", "Bootstrap", "DOM Manipulation", "APIs", "jQuery", "JSON", "AJAX", "Git", "Node.js", "ES6", "OOP", "Express.js", "MySQL", "MVC Paradigm", "Sequelize", "Testing", "React.js", "NoSQL"],
+    "software": ["Nintex Process Platform", "Canto", "Expensify", "Millennia FileStar", "MRI", "Nexus", "VTS (View The Space)", "Atlassian Jira & Confluence", "SharePoint Online (O365)", "GitHub/GitLab", "PowerBI", "Concur", "Microsoft Dynamics", "Asana", "Dropbox", "Camtasia", "Google Suite", "Salesforce CRM"],
+    "experience": [
+      {
+        "role": "Technical Channel Enablement Manager",
+        "company": "Nintex",
+        "location": "Remote",
+        "duration": "July 2022 – February 2023",
+        "duties": [
+          "Managed and executed complex technical partner enablement programs, influencing product roadmaps and providing technical expertise.",
+          "Conducted engaging training exercises to equip teams with necessary knowledge and skills.",
+          "Developed comprehensive go-to-market plans in collaboration with Strategic Partner Managers."
+        ]
+      },
+      {
+        "role": "Solutions Engineer",
+        "company": "Nintex",
+        "location": "Remote",
+        "duration": "April 2021 - July 2022",
+        "duties": [
+          "Successfully led and executed technical projects, achieving 100+% of sales goals with each aligned Account Executive.",
+          "Provided tailored pre-sales solutions and technical presentations, addressing customer business problems."
+        ]
+      },
+      {
+        "role": "Pre-Sales Engineer / Solutions Architect",
+        "company": "ABC Company",
+        "location": "Philadelphia, PA",
+        "duration": "August 2020 - April 2021",
+        "duties": [
+          "Collaborated with the sales team to understand customer requirements and design effective solutions.",
+          "Delivered technical presentations and demonstrations to showcase the features and benefits of the company's products.",
+          "Provided technical support and guidance to customers during the pre-sales process."
+        ]
+      }
+    ],
+    "jobTitles": [
+      "Technical Project Manager / Program Manager",
+      "Pre-Sales Engineer / Solutions Architect",
+      "Technical Account Manager / Customer Success Manager",
+      "Product Manager",
+      "Full Stack Web Developer",
+      "Technical Trainer / Education Consultant",
+      "Channel Partner Manager / Strategic Partner Manager",
+      "Business Analyst"
+    ],
+    "projects": [
+      {
+        "title": "The 19th Hole",
+        "github": "github.com/mcamarco/the-19th-hole",
+        "live": "mcamarco.github.io/the-19th-hole/",
+        "description": "Full-stack application using Node.js, Express.js, MySQL, Sequelize ORM, and Handlebars.js. Managed RESTful API development, database implementation, and responsive UI."
+      },
+      {
+        "title": "Portfoli-Yo",
+        "github": "github.com/mcamarco/Portfoli-Yo",
+        "live": "portfoli-yo.herokuapp.com",
+        "description": "Full-stack application using Node.js, Express.js, MySQL, Sequelize ORM, and Handlebars.js. Led RESTful API development, database functionality, and responsive UI creation."
+      },
+      {
+        "title": "Consulting Website",
+        "github": "github.com/mcamarco/camarcoconsulting",
+        "live": "www.camarcoconsulting.com",
+        "description": "MERN stack single-page application for Camarco Consulting LLC. Developed user-friendly interface, implemented React components, integrated GraphQL for data retrieval, and deployed on Heroku with polished UI."
+      }
+    ],
+    "education": [
+      {
+        "title": "Penn LPS Coding Boot Camp",
+        "institution": "University Of Pennsylvania"
+      },
+      {
+        "title": "B.S. Business Administration",
+        "institution": "Farmingdale State College",
+        "minor": "Business Law"
+      },
+      {
+        "title": "Project Management For Professionals",
+        "institution": "NYU School of Professional Studies"
+      }
+    ],
+    "certifications": [
+      "Full Stack Web Developer - University of Pennsylvania",
+      "Software Development Life Cycle (SDLC) - LinkedIn Learning",
+      "Technical Sales: The Role of the Sales Engineer - LinkedIn Learning",
+      "Process Automation Practitioner - Nintex",
+      "Workflow Cloud Practitioner - Nintex"
+    ]
+  }
+  
