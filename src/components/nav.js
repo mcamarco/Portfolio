@@ -25,7 +25,7 @@ function Nav() {
         </li>
 
         <li className="nav-item">
-          <Link to='/Testimonials' className={location.pathname === "/Testimonials" ? "clicked" : "unclicked"}>Testimonials</Link>
+          {/* <Link to='/Testimonials' className={location.pathname === "/Testimonials" ? "clicked" : "unclicked"}>Testimonials</Link> */}
         </li>
       </ul>
 
