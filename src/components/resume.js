@@ -101,7 +101,7 @@ function Resume() {
       </div>
 
       <div className='resumeDownload'>
-        <a href="/images/Mickey_Camarco_Solutions_Engineer.pdf" download>Download Resume Here</a>
+        <a href="/images/Resume.pdf" download>Download Resume Here</a>
       </div>
     </div>
   );
