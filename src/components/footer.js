@@ -11,9 +11,9 @@ function Footer() {
   return (
     <div className='footer'>
 
-      {/* Email */}
+      {/* Email
       <a href="mailto:mickey.camarco@gmail.com">Contact Me</a>
-      <br></br>
+      <br></br> */}
 
       {/* GitHub */}
       <a href="https://github.com/mcamarco">
