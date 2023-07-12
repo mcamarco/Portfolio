@@ -33,7 +33,7 @@ function Resume() {
           </p>
           <h5>Business Analyst / Product Manager</h5>
           <p className="experience-info">
-            Silverstein Properties | New York | May 2019 – April 2019
+            Silverstein Properties | New York | May 2019 – April 2021
           </p>
           <h5>Diversity, Equity & Inclusion Team Member</h5>
           <p className="experience-info">
